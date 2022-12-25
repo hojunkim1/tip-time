@@ -1,4 +1,4 @@
-# Project:TipTime
+# Project: Tip Time App
 
 Practice use XML files
 
