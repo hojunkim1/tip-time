@@ -1,4 +1,4 @@
-# Project: Tip Time App
+# Project: Tip Time App - Design Resource
 
 Practice use XML files
 
